@@ -411,3 +411,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7270.644792 seconds.
+  path: Assets/Scenes/TANK.prefab
+  artifactKey: Guid(77c4e67ab9a9443c6972270e401d881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TANK.prefab using Guid(77c4e67ab9a9443c6972270e401d881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24b401eb44ac63253a20ca10ace3c21') in 0.072687 seconds 
+  Import took 0.076328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.808877 seconds.
+  path: Assets/Scenes/TANK.prefab
+  artifactKey: Guid(77c4e67ab9a9443c6972270e401d881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/TANK.prefab using Guid(77c4e67ab9a9443c6972270e401d881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b595aa3aaedbbd8ae0d9d159396b38') in 0.014129 seconds 
+  Import took 0.017204 seconds .
+
