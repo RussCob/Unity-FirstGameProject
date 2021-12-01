@@ -427,3 +427,4 @@ Received Import Request.
 Start importing Assets/Scenes/TANK.prefab using Guid(77c4e67ab9a9443c6972270e401d881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b595aa3aaedbbd8ae0d9d159396b38') in 0.014129 seconds 
   Import took 0.017204 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
